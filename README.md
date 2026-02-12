@@ -26,7 +26,7 @@ Os principais pontos focais foram:
 
 ### 📸 Screenshot
 
-![screenshot-do-projeto](/images/screenshot.jpg) 
+![screenshot-do-projeto](/images/screenshot.png) 
 
 
 ### 🔗 Links

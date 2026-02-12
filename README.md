@@ -11,7 +11,6 @@ Esta é uma solução para o [desafio do componente de QR code no Frontend Mento
 - [Meu processo](#-processo)
   - [Tecnologias utilizadas](#-tecnologias-utilizadas)
   - [O que eu aprendi](#-o-que-aprendi)
-- [Autor](#-autor)
 
 ---
 

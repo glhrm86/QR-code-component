@@ -26,12 +26,12 @@ Os principais pontos focais foram:
 
 ### 📸 Screenshot
 
-![screenshot-do-projeto](./images/screenshot.jpg) 
+![screenshot-do-projeto](/images/screenshot.jpg) 
 
 
 ### 🔗 Links
 
-- URL: [Clique aqui]()
+- URL: [Clique aqui](https://glhrm86.github.io/QR-code-component/)
 
 ---
 

@@ -46,8 +46,7 @@ Os principais pontos focais foram:
 
 ### 💡 O que aprendi
 
-Neste projeto, meu maior aprendizado foi o uso do **Flexbox** para centralização. Com as propriedades abaixo, o processo se tornou muito eficiente:
-
+Neste projeto, meu maior aprendizado foi o uso do **Flexbox** para centralização. 
 ```css
 
 #container {

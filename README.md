@@ -8,7 +8,7 @@ Esta é uma solução para o desafio do componente de QR code no Frontend Mentor
   - [O desafio](#-o-desafio)
   - [Screenshot](#-screenshot)
   - [Links](#-links)
-- [Meu processo](#-processo)
+- [Processo](#-processo)
   - [Tecnologias utilizadas](#-tecnologias-utilizadas)
   - [O que eu aprendi](#-o-que-aprendi)
 

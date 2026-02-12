@@ -53,3 +53,5 @@ Neste projeto, meu maior aprendizado foi o uso do **Flexbox** para centraliza√ß√
   display: flex;
   justify-content: center; /* Centraliza horizontalmente */
   align-items: center; /* Centraliza verticalmente */
+
+

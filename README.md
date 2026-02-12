@@ -1,6 +1,6 @@
 # Frontend Mentor - QR Code Component
 
-Esta é uma solução para o [desafio do componente de QR code no Frontend Mentor]. Os desafios do Frontend Mentor ajudam a melhorar as habilidades de codificação construindo projetos realistas.
+Esta é uma solução para o desafio do componente de QR code no Frontend Mentor. Os desafios do Frontend Mentor ajudam a melhorar as habilidades de codificação construindo projetos realistas.
 
 ## 📋 Índice
 
